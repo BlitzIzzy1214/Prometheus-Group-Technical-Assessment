@@ -445,3 +445,4 @@ C:\Users\Blitz\Job Stuff\prometheus\PlaywrightTests\bin\Debug\net9.0\Microsoft.B
 C:\Users\Blitz\Job Stuff\prometheus\PlaywrightTests\bin\Debug\net9.0\Microsoft.Playwright.dll
 C:\Users\Blitz\Job Stuff\prometheus\PlaywrightTests\bin\Debug\net9.0\Microsoft.Playwright.TestAdapter.dll
 C:\Users\Blitz\Job Stuff\prometheus\PlaywrightTests\bin\Debug\net9.0\Microsoft.Playwright.Xunit.dll
+C:\Users\Blitz\Job Stuff\prometheus\PlaywrightTests\obj\Debug\net9.0\PlaywrightTests.sourcelink.json
